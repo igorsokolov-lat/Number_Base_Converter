@@ -13,7 +13,7 @@ public class Main {
         boolean flag = true;
 
         while (mainFlag) {
-            System.out.println("Enter to numbers in format: {source base} {target base} (To quit type /exit)");
+            System.out.println("Enter tцo numbers in format: {source base} {target base} (To quit type /exit)");
             String choice = scanner.nextLine();
 
             switch (choice) {
